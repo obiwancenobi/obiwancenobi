@@ -60,7 +60,6 @@ When I'm not coding, you’ll find me playing guitar—check out my guitar cover
 ---
 
 ## 📊 GitHub Stats
-![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=obiwancenobi&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obiwancenobi&layout=compact&theme=tokyonight)  
 
 ---
