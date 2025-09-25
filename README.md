@@ -48,9 +48,13 @@ With over 14 years of experience, I design and build **scalable cross-platform m
 
 ---
 
+## 🎸 Interests
+When I'm not coding, you’ll find me playing guitar—check out my guitar covers on YouTube!
+
+---
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arif-ariyan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/obiwancenobi)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://riffcompiler.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@obiwancenobi)  
 📧 [me@riffcompiler.com](mailto:me@riffcompiler.com)  
