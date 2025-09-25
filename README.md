@@ -43,8 +43,8 @@ With over 14 years of experience, I design and build **scalable cross-platform m
 ---
 
 ## 📌 Pinned Repositories
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=riffcompiler&theme=tokyonight)](https://github.com/obiwancenobi/riffcompiler)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=free-ai-models&theme=tokyonight)](https://github.com/obiwancenobi/free-ai-models)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=riffcompiler&theme=tokyonight)](https://github.com/obiwancenobi/free_models)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=free-ai-models&theme=tokyonight)](https://github.com/obiwancenobi/readme-generator)  
 
 ---
 
