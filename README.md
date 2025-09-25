@@ -49,7 +49,7 @@ With over 14 years of experience, I design and build **scalable cross-platform m
 ---
 
 ## 🎸 Interests
-When I'm not coding, you’ll find me playing guitar—check out my guitar covers on YouTube!
+When I'm not coding, you’ll find me playing guitar—check out my guitar covers on [YouTube](https://www.youtube.com/@ArifAriyan)!
 
 ---
 
