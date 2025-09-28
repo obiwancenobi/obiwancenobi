@@ -31,16 +31,6 @@ With over 14 years of experience, I design and build **scalable cross-platform m
 
 ---
 
-## 📱 Featured Projects
-- [**Logisly Driver**](https://play.google.com/store/apps/details?id=com.logisly.driver) – Delivery management app for transporters.  
-- [**KLAR Smile**](https://play.google.com/store/apps/details?id=com.klar.klarsmile&hl=en_US) – Digital aligner and dental care app.  
-- [**Mitra BUMDes**](https://play.google.com/store/apps/details?id=com.bumdes&hl=en_US) – Empowering village-owned enterprises.  
-- [**Simpeldesa**](https://play.google.com/store/apps/details?id=com.simpeldesa&hl=en_US) – Smart Village governance and economy platform.  
-- [**Visiku**](https://play.google.com/store/apps/details?id=com.simpeldesa&hl=en_US) – Connecting MSMEs with investors.  
-- [**Garuda Indonesia Mobile**](https://play.google.com/store/apps/details?id=com.simpeldesa&hl=en_US) – Official airline ticketing app.  
-
----
-
 ## 📌 Pinned Repositories
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=free_models&theme=tokyonight)](https://github.com/obiwancenobi/free_models) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=readme-generator&theme=tokyonight)](https://github.com/obiwancenobi/readme-generator) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=nobar&theme=tokyonight)](https://github.com/obiwancenobi/nobar) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=Github-Space&theme=tokyonight)](https://github.com/obiwancenobi/rGithub-Space)
 
