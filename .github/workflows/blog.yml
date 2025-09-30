@@ -1,7 +1,7 @@
 name: Update blog posts
 on:
   schedule:
-    - cron: '0 0 * * *' # runs every hour
+    - cron: '0 17 * * 0'  # Sunday at 5:00 PM UTC (Monday midnight Jakarta time)
   workflow_dispatch:
 
 permissions:
