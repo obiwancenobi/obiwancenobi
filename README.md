@@ -1,13 +1,5 @@
 # Hi, I’m Arif Ariyan 👋  
 
-🚀 **Senior Software Engineer | Mobile Specialist (Android & Flutter)**  
-With over 14 years of experience, I design and build **scalable cross-platform mobile applications**. My expertise spans **Flutter, Kotlin, Swift, and Java**, and I’m passionate about delivering impactful solutions that improve performance, reduce costs, and scale businesses.  
-
-- 🌍 Worked across **Indonesia, Singapore, and remote teams in the US**.  
-- 🛠 Skilled in **mobile software architecture, system optimization, and end-to-end app delivery**.  
-- 🤝 Strong collaboration experience with cross-country teams, designers, and product managers.  
-
----
 
 ## 🛠️ Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
