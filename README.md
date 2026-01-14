@@ -20,17 +20,6 @@ With over 14 years of experience, I design and build **scalable cross-platform m
 
 ---
 
-## 📌 Experience
-- **Senior Mobile Engineer** – Muvr Technologies, Inc. *(Remote, US | Dec 2024 – Apr 2025)*  
-- **Mobile Engineer** – PT. Tiptip Network *(Jakarta, Indonesia | Jun 2022 – Sep 2024)*  
-- **Senior Software Engineer (Android)** – Grab *(Jakarta, Indonesia | Oct 2019 – Jun 2022)*  
-- **Android Developer** – Kudo, Domikado, LinkIT360 *(2014 – 2019)*  
-- **Mobile Developer** – Tagit Pte Ltd, Risto Mobile Solutions *(2011 – 2015)*  
-- **Web & iOS Programmer** – PT. Boleh Net Indonesia *(2010 – 2011)*  
-- **R&D Engineer** – PT. Catur Elang Perkasa *(2007 – 2010)*  
-
----
-
 ## 📌 Pinned Repositories
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=ai-code-reviewer&theme=tokyonight)](https://github.com/obiwancenobi/ai-code-reviewer) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=free_models&theme=tokyonight)](https://github.com/obiwancenobi/free_models) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=readme-generator&theme=tokyonight)](https://github.com/obiwancenobi/readme-generator) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=nobar&theme=tokyonight)](https://github.com/obiwancenobi/nobar) 
 
@@ -65,11 +54,6 @@ When I'm not coding, you’ll find me playing guitar—check out my guitar cover
 - [Building a Video Description &amp; Tag Generator Web App with Kilo Code, Spec-Kit, and Grok Code Fast 1](https://medium.com/@obiwancenobi/building-a-video-description-tag-generator-web-app-with-kilo-code-spec-kit-and-grok-code-fast-1-0c42801f3342?source=rss-644b30790706------2)
 - [New in Android Gradle Plugin 8.12.0: Optimized Resource Shrinking](https://medium.com/@obiwancenobi/new-in-android-gradle-plugin-8-12-0-optimized-resource-shrinking-278c5ef48a36?source=rss-644b30790706------2)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-## 👀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=obiwancenobi&color=blue&style=flat-square)
 
 ---
 
