@@ -13,7 +13,7 @@
 ---
 
 ## 📌 Pinned Repositories
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=ai-code-reviewer&theme=tokyonight)](https://github.com/obiwancenobi/ai-code-reviewer) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=free_models&theme=tokyonight)](https://github.com/obiwancenobi/free_models) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=readme-generator&theme=tokyonight)](https://github.com/obiwancenobi/readme-generator) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=nobar&theme=tokyonight)](https://github.com/obiwancenobi/nobar) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=opencode-commands&theme=tokyonight)](https://github.com/obiwancenobi/opencode-commands) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=ai-code-reviewer&theme=tokyonight)](https://github.com/obiwancenobi/ai-code-reviewer) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=free_models&theme=tokyonight)](https://github.com/obiwancenobi/free_models) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=readme-generator&theme=tokyonight)](https://github.com/obiwancenobi/readme-generator) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=obiwancenobi&repo=nobar&theme=tokyonight)](https://github.com/obiwancenobi/nobar) 
 
 ---
 
