@@ -33,9 +33,9 @@ You'll find me playing guitar 🎶 — check out my covers on [YouTube](https://
 ## 📝 Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Free AI Models: Building a Weekend Project with OpenRouter, Spec Kit & Kilo Code](https://medium.com/@obiwancenobi/exploring-free-ai-models-building-a-weekend-project-with-openrouter-spec-kit-kilo-code-886898103d50)
-- [Building a Video Description & Tag Generator Web App with Kilo Code, Spec-Kit, and Groq Code Fast](https://medium.com/@obiwancenobi/building-a-video-description-tag-generator-web-app-with-kilo-code-spec-kit-and-grok-code-fast-1-0c42801f3342)
-- [New in Android Gradle Plugin 8.12.0: Optimized Resource Shrinking](https://medium.com/@obiwancenobi/new-in-android-gradle-plugin-8-12-0-optimized-resource-shrinking-278c5ef48a36)
+- [Exploring Free AI Models: Building a Weekend Project with OpenRouter, Spec Kit &amp; Kilo Code](https://medium.com/@obiwancenobi/exploring-free-ai-models-building-a-weekend-project-with-openrouter-spec-kit-kilo-code-886898103d50?source=rss-644b30790706------2)
+- [Building a Video Description &amp; Tag Generator Web App with Kilo Code, Spec-Kit, and Grok Code Fast 1](https://medium.com/@obiwancenobi/building-a-video-description-tag-generator-web-app-with-kilo-code-spec-kit-and-grok-code-fast-1-0c42801f3342?source=rss-644b30790706------2)
+- [New in Android Gradle Plugin 8.12.0: Optimized Resource Shrinking](https://medium.com/@obiwancenobi/new-in-android-gradle-plugin-8-12-0-optimized-resource-shrinking-278c5ef48a36?source=rss-644b30790706------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
