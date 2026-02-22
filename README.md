@@ -33,6 +33,7 @@ You'll find me playing guitar 🎶 — check out my covers on [YouTube](https://
 ## 📝 Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Built beetlix.com](https://medium.com/@obiwancenobi/how-i-built-beetlix-com-5b30733c06f1?source=rss-644b30790706------2)
 - [How I Built a Simple API Gateway to Survive Local Development Chaos](https://medium.com/@obiwancenobi/how-i-built-a-simple-api-gateway-to-survive-local-development-chaos-b79debff1842?source=rss-644b30790706------2)
 - [Exploring Free AI Models: Building a Weekend Project with OpenRouter, Spec Kit &amp; Kilo Code](https://medium.com/@obiwancenobi/exploring-free-ai-models-building-a-weekend-project-with-openrouter-spec-kit-kilo-code-886898103d50?source=rss-644b30790706------2)
 - [Building a Video Description &amp; Tag Generator Web App with Kilo Code, Spec-Kit, and Grok Code Fast 1](https://medium.com/@obiwancenobi/building-a-video-description-tag-generator-web-app-with-kilo-code-spec-kit-and-grok-code-fast-1-0c42801f3342?source=rss-644b30790706------2)
