@@ -1,32 +1,26 @@
 # Hi, I'm Arif Ariyan 👋
 
-👨‍💻 Mobile & Full-Stack Developer | 🎸 Guitar Enthusiast | ☕ Tech Explorer
+👨‍💻 I build AI-assisted engineering workflows | ⚛️ React & Node.js | 📱 Flutter | 🎸 Guitar
+
+---
+
+## 🚀 Building
+
+- **[Beetlix](https://beetlix.com)** — AI platform for social video creators: titles, transcripts, channel audits, content repurposing · [YouTube](https://www.youtube.com/@beetlix-dev)
+- **[Beetlix Swarm](https://swarm.beetlix.com)** — AI dev tool reviews with live pricing & benchmarks · [Beetlix Stack on YouTube](https://www.youtube.com/@BeetlixStack)
+- **[Beetlix Nest](https://nest.beetlix.com)** — fintech app reviews, ranked on the numbers
+
+Plus open-source AI tooling: [CommandKenobi](https://github.com/obiwancenobi/CommandKenobi), [klamben](https://github.com/obiwancenobi/klamben), [claude-custom](https://github.com/obiwancenobi/claude-custom), [ai-code-reviewer](https://github.com/obiwancenobi/ai-code-reviewer)
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Mobile | Backend | Frontend |
-|--------|---------|----------|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ![Go](https://img.shields.io/badge/Go-0095D5?style=for-the-badge&logo=go&logoColor=white) | |
-
----
-
-## 🎸 When I'm Not Coding
-
-You'll find me playing guitar 🎶 — check out my covers on [YouTube](https://www.youtube.com/@ArifAriyan)!
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arif-ariyan)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://riffcompiler.com)
-[![SaaS - Beetlix](https://img.shields.io/badge/Beetlix-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://beetlix.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@obiwancenobi)  
-📧 [me@riffcompiler.com](mailto:me@riffcompiler.com)
+| Fullstack | Mobile | Backend |
+|-----------|--------|---------|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Go](https://img.shields.io/badge/Go-0095D5?style=for-the-badge&logo=go&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | |
 
 ---
 
@@ -41,3 +35,17 @@ You'll find me playing guitar 🎶 — check out my covers on [YouTube](https://
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+## 🎸 When I'm Not Coding
+
+You'll find me playing guitar 🎶 — check out my covers on [YouTube](https://www.youtube.com/@ArifAriyan)!
+
+---
+
+## 🌐 Connect with Me
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/obiwancenobi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arif-ariyan)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@obiwancenobi)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://riffcompiler.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@riffcompiler.com)
