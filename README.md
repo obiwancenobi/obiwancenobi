@@ -9,7 +9,7 @@
 - **[Beetlix](https://beetlix.com)** — AI platform for social video creators: titles, transcripts, channel audits, content repurposing · [YouTube](https://www.youtube.com/@beetlix-dev)
 - **[Beetlix Swarm](https://swarm.beetlix.com)** — AI dev tool reviews with live pricing & benchmarks · [Beetlix Stack on YouTube](https://www.youtube.com/@BeetlixStack)
 - **[Beetlix Nest](https://nest.beetlix.com)** — fintech app reviews, ranked on the numbers
-- **[Retro Arcade: 8-bit Classics](https://play.google.com/store/apps/details?id=com.beetlix.retro_arcade)** — 8-bit arcade mini-games for Android, built solo with Flutter & Flame · [Get it on Google Play](https://play.google.com/store/apps/details?id=com.beetlix.retro_arcade)
+- **[Retro Arcade: 8-bit Classics](https://play.google.com/store/apps/details?id=com.beetlix.retro_arcade)** — 8-bit arcade mini-games for Android, built solo with Flutter & Flame · on Google Play now 🕹️
 
 Plus open-source AI tooling: [CommandKenobi](https://github.com/obiwancenobi/CommandKenobi), [klamben](https://github.com/obiwancenobi/klamben), [claude-custom](https://github.com/obiwancenobi/claude-custom), [ai-code-reviewer](https://github.com/obiwancenobi/ai-code-reviewer)
 
