@@ -12,6 +12,7 @@
 - **[Retro Arcade: 8-bit Classics](https://play.google.com/store/apps/details?id=com.beetlix.retro_arcade)** — 8-bit arcade mini-games for Android, built solo with Flutter & Flame · on Google Play now 🕹️
 - **[Daily Brain: 5 Min Brain Games](https://play.google.com/store/apps/details?id=com.beetlix.daily_brain)** — five short daily challenges: memory, reaction, pattern, math, visual. Streaks, XP, fully offline. Built solo with Flutter · on Google Play now 🧠
 - **[Pocket Tools: 45 Offline Tools](https://play.google.com/store/apps/details?id=com.beetlix.pocket_tools)** — 45 offline tools in one app: calculators, converters, JSON formatter, image compress, QR maker. No account, no internet. Built solo with Flutter · on Google Play now 🧰
+- **[RotMeter: Brainrot Score](https://play.google.com/store/apps/details?id=com.beetlix.rotmeter)** — screen time scored 0–100. Tracks doom-apps, per-app budgets with judgy nudges, ad-free focus sessions. All on-device. Built solo with Flutter · on Google Play now 🧟
 
 Plus open-source AI tooling: [CommandKenobi](https://github.com/obiwancenobi/CommandKenobi), [klamben](https://github.com/obiwancenobi/klamben), [claude-custom](https://github.com/obiwancenobi/claude-custom), [ai-code-reviewer](https://github.com/obiwancenobi/ai-code-reviewer)
 
