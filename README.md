@@ -14,6 +14,7 @@
 - **[Pocket Tools: 45 Offline Tools](https://play.google.com/store/apps/details?id=com.beetlix.pocket_tools)** — 45 offline tools in one app: calculators, converters, JSON formatter, image compress, QR maker. No account, no internet. Built solo with Flutter · on Google Play now 🧰
 - **[RotMeter: Brainrot Score](https://play.google.com/store/apps/details?id=com.beetlix.rotmeter)** — screen time scored 0–100. Tracks doom-apps, per-app budgets with judgy nudges, ad-free focus sessions. All on-device. Built solo with Flutter · on Google Play now 🧟
 - **[LearnBug: Flashcards & Quiz](https://play.google.com/store/apps/details?id=com.beetlix.learnbug)** — snap a worksheet or PDF, play it in minutes. Flashcards, quiz, matching, and essay questions in the material's own language. No typing, no deck building. Built solo with Flutter · on Google Play now 📸
+- **[Instar — Slow Letters](https://instar.beetlix.com)** — slow letters carried by real insects. Pick a courier, it flies the real route at its real, cited speed. Opens in any browser, sealed until it lands, encrypted with the key in the link. Built solo with Next.js · live now 🐝
 
 Plus open-source AI tooling: [CommandKenobi](https://github.com/obiwancenobi/CommandKenobi), [klamben](https://github.com/obiwancenobi/klamben), [claude-custom](https://github.com/obiwancenobi/claude-custom), [ai-code-reviewer](https://github.com/obiwancenobi/ai-code-reviewer)
 
